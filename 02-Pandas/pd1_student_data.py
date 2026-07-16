@@ -10,7 +10,7 @@ students = {
         "Computer Science",
         "Mathematics",
         "Physics",
-        "Telecomunications",
+        "Telecommunications",
         "Biology",
         "Mathematics"
     ]
